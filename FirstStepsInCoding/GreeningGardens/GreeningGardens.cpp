@@ -17,6 +17,6 @@ int main() {
 
     double finalPrice = priceBeforeDiscount - discount;
 
-    cout << "The final price is : " << finalPrice << " lv." << endl;
+    cout << "The final price is: " << finalPrice << " lv." << endl;
     cout << "The discount is: " << discount << " lv." << endl;
 }
