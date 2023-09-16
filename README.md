@@ -9,3 +9,7 @@
 [Conditional Statements](https://forms.gle/5V9QufXm1QQUTMyH8)
 
 ---
+
+[Conditional Statements Advanced](https://forms.gle/4vkdXv2gyACUmySo9)
+
+---
