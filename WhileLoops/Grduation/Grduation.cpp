@@ -22,7 +22,7 @@ int main() {
 
         if (grade < 4) {
             if (failedOnce) {
-                cout << name << " has been excluded at 8 grade" << endl;
+                cout << name << " has been excluded at " << yearInSchool << " grade" << endl;
                 return 0;
             }
             else {
