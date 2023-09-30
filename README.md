@@ -17,3 +17,7 @@
 [For Loops](https://forms.gle/2vSWGd8u19myP8JR6)
 
 ---
+
+[While Loops](https://forms.gle/iz6MHtE5nnD8chef8)
+
+---
