@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Travelling", "Travelling\Tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bulding", "Bulding\Bulding.vcxproj", "{75781E19-57A9-479D-BBA4-9EC4EE65C03D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dishwasher", "Dishwasher\Dishwasher.vcxproj", "{5AFD5310-37AA-41E4-928E-CAE6F7F46278}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{75781E19-57A9-479D-BBA4-9EC4EE65C03D}.Release|x64.Build.0 = Release|x64
 		{75781E19-57A9-479D-BBA4-9EC4EE65C03D}.Release|x86.ActiveCfg = Release|Win32
 		{75781E19-57A9-479D-BBA4-9EC4EE65C03D}.Release|x86.Build.0 = Release|Win32
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Debug|x64.ActiveCfg = Debug|x64
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Debug|x64.Build.0 = Debug|x64
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Debug|x86.ActiveCfg = Debug|Win32
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Debug|x86.Build.0 = Debug|Win32
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Release|x64.ActiveCfg = Release|x64
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Release|x64.Build.0 = Release|x64
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Release|x86.ActiveCfg = Release|Win32
+		{5AFD5310-37AA-41E4-928E-CAE6F7F46278}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
