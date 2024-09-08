@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/FirstStepsInCodingExercise Select CMakeLists.txt
