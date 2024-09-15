@@ -1,38 +1,38 @@
 #include <iostream>
-#include <iomanip>
+#include <cmath>
+#include <cstring>
 
 using namespace std;
 
 int main() {
-    const double DECOR_PERCENTAGE = 0.10;
-    const double OUTFIT_DISCOUNT = 0.10;
-    const int DISCOUNT_THRESHOLD = 150;
+    string seriesName;
+    getline(cin, seriesName);
 
-    double budget;
-    cin >> budget;
+    double episodeDuration, breakDuration;
+    cin >> episodeDuration >> breakDuration;
 
-    int extras;
-    cin >> extras;
+    double lunchTime = breakDuration / 8;
+    double relaxTime = breakDuration / 4;
 
-    double priceForExtraOutfit;
-    cin >> priceForExtraOutfit;
+    double remainingTime = breakDuration - (lunchTime + relaxTime);
 
-    double decor = budget * DECOR_PERCENTAGE;
-    double extrasOutfitPrice = extras * priceForExtraOutfit;
-
-    if (extras > DISCOUNT_THRESHOLD) {
-        extrasOutfitPrice *= (1 - OUTFIT_DISCOUNT);
-    }
-
-    double totalCost = extrasOutfitPrice + decor;
-
-    cout << fixed << setprecision(2);
-
-    if (totalCost > budget) {
-        cout << "Not enough money!" << endl;
-        cout << "Wingard needs " <<  totalCost - budget << " leva more." << endl;
+    if (remainingTime >= episodeDuration) {
+        cout
+            << "You have enough time to watch "
+            << seriesName
+            << " and left with "
+            << ceil(remainingTime - episodeDuration)
+            << " minutes free time."
+        << endl;
     } else {
-        cout << "Action!" << endl;
-        cout << "Wingard starts filming with " << budget - totalCost << " leva left." << endl;
+        cout
+            << "You don't have enough time to watch "
+            << seriesName
+            <<  ", you need "
+            << ceil(episodeDuration - remainingTime)
+            << " more minutes."
+        << endl;
     }
+
+    return 0;
 }
