@@ -1,9 +1,6 @@
 # ninja log v5
 4	307	1726393046266600821	CMakeFiles/ComditionalStatementsExercise.dir/06_swimmingRecord.cpp.o	6ab36abb2be7701a
 3	305	1726393046264965918	CMakeFiles/ComditionalStatementsExercise.dir/07_Shopping.cpp.o	a2f036e8323de39c
-406	443	1726392986142424516	ComditionalStatementsExercise	1a36a0661643a320
-4	406	1726392986104962004	CMakeFiles/ComditionalStatementsExercise.dir/main.cpp.o	420f0a7d6353bcb2
-0	41	1726393057245883824	build.ninja	dea7b15d0409a808
-3	35	1726393057286535350	ComditionalStatementsExercise	1a36a0661643a320
-4	328	1726393705524580113	CMakeFiles/ComditionalStatementsExercise.dir/main.cpp.o	420f0a7d6353bcb2
 328	364	1726393705562046583	ComditionalStatementsExercise	1a36a0661643a320
+4	328	1726393705524580113	CMakeFiles/ComditionalStatementsExercise.dir/main.cpp.o	420f0a7d6353bcb2
+0	41	1726944415042104098	build.ninja	dea7b15d0409a808

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ConditionalStatementsAdvancedExercise",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ConditionalStatementsAdvancedExercise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ConditionalStatementsAdvancedExercise-Debug-43b1e00ef2e6daf4a0fd.json",
+					"name" : "ConditionalStatementsAdvancedExercise",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/ConditionalStatementsAdvancedExercise/cmake-build-debug",
+		"source" : "/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/ConditionalStatementsAdvancedExercise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

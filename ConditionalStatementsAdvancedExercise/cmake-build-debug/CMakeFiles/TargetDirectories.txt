@@ -1,0 +1,3 @@
+/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/ConditionalStatementsAdvancedExercise/cmake-build-debug/CMakeFiles/ConditionalStatementsAdvancedExercise.dir
+/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/ConditionalStatementsAdvancedExercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/ConditionalStatementsAdvancedExercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
