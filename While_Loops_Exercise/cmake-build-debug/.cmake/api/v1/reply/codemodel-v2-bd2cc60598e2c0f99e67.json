@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "While_Loops_Exercise",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "While_Loops_Exercise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-While_Loops_Exercise-Debug-864adf4f57e3cfc731d2.json",
+					"name" : "While_Loops_Exercise",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/While_Loops_Exercise/cmake-build-debug",
+		"source" : "/Users/diyan/CLionProjects/Softuni-CPlusPlus-Basics/While_Loops_Exercise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
